@@ -1,0 +1,52 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 3400,
+      "quantity": 600,
+      "selected": 600,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "printer",
+      "price": 300,
+      "quantity": 100,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 5,
+      "name": "Macbook pro",
+      "price": "1000",
+      "quantity": 40,
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "SmatTV",
+      "price": 3000,
+      "quantity": 100,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Télévision HD",
+      "price": "1500",
+      "quantity": "130",
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 7,
+      "name": "Iphone 12 max",
+      "price": "1400",
+      "quantity": "23",
+      "selected": true,
+      "available": true
+    }
+  ]
+}
